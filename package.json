@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/luzhang/gulp-google-closure-deps/issues"
   },
-  "homepage": "https://github.com/luzhang/gulp-google-closure-deps#readme"
+  "homepage": "https://github.com/luzhang/gulp-google-closure-deps#readme",
+  "dependencies": {
+    "google-closure-deps": "^20180805.0.1",
+    "plugin-error": "^1.0.1",
+    "through2": "^2.0.3",
+    "vinyl": "^2.2.0"
+  }
 }
